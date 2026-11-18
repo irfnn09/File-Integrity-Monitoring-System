@@ -8,7 +8,7 @@ It detects changes in files by comparing their current hash values with previous
 
 ## Application Preview
 
-![FIMS Application](fims_screenshot.png)
+![FIMS Application](images/fims_screenshot.png)
 ## Features
 
 - Select a folder using the Browse Folder button.
