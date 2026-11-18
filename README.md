@@ -6,6 +6,9 @@ FIMS is a Python-based application designed to monitor file integrity using SHA-
 
 It detects changes in files by comparing their current hash values with previously saved baseline data.
 
+## Application Preview
+
+![FIMS Application](fims_screenshot.png)
 ## Features
 
 - Select a folder using the Browse Folder button.
