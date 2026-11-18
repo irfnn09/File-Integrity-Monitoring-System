@@ -1,0 +1,6 @@
+baseline.json
+reports/
+__pycache__/
+TestFolder/
+monitoring_report.txt
+nota.txt
